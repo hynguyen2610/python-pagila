@@ -39,4 +39,4 @@ def insert_actors(num_actors):
         print("Failed to connect to the database.")
 
 # Insert 10,000 actors
-insert_actors(10000)
+insert_actors(100000)
