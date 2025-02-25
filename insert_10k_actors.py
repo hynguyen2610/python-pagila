@@ -1,4 +1,3 @@
-import psycopg2
 from faker import Faker
 
 # Import the connection function
