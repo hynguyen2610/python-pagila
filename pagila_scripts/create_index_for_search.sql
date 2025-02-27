@@ -1,0 +1,1 @@
+CREATE INDEX_FILM_ACTOR_ACTOR_ID ON film_actor(actor_id)
